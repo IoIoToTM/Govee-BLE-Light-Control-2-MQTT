@@ -1,0 +1,8 @@
+#ignore the secrets file
+secrets.js
+
+#ignore the node_modules folder
+node_modules
+
+#ignore the devicesConfig.js file
+devicesConfig.js

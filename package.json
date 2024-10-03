@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-24",
+    "mqtt": "^5.10.1"
+  }
+}
