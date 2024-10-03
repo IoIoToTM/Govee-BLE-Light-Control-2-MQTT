@@ -35,4 +35,4 @@ This project uses third-party libraries:
 - **@abandonware/noble** is licensed under the MIT License.
 - **mqtt** is licensed under the MIT License.
 
-Please refer to the [LICENSE](LICENSE) file for more information.
+Please refer to the [LICENSE](LICENSE.md) file for more information.
